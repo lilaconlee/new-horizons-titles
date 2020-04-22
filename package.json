@@ -1,0 +1,21 @@
+{
+  "name": "new-horizon-titles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build index.html --public-url ./",
+    "start": "parcel index.html",
+    "watch": "parcel watch index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.0.5",
+    "sass": "^1.26.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}

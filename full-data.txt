@@ -1,0 +1,351 @@
+000_0	Angling for Perfection!		
+000_00	Accomplished	Lad	Lass
+000_01	Competent	Fishing Fan	
+000_02	Moderate	Beach Bum	
+000_03	Fierce	Fisher	
+000_04	Battle-Tested	Catch of the Day	
+001_0	You've Got the Bug		
+001_00	Freshly Delivered	Egg	
+001_01	Weak	Grub	
+001_02	Emerging	Pupa	
+001_03	Soaring	Butterfly	
+001_04	Complete	Metamorphosis	
+002_0	Cast Master		
+002_00	Mistakenly Caught	Fish	
+002_01	Bait-Snatching	Frenzy	
+002_02	Wave-Tossed	Life-Form	
+003_0	Island Ichthyologist		
+003_00	Small-Fry	Pesca Pro	
+003_01	Energetic	Angler	
+003_02	Pond-Raised	Tropical Fish	
+003_03	Hooked	Reaction	
+003_04	Pole-Fishing	Expert	
+004_0	Bugs Don't Bug Me		
+004_00	Hobby-Level	Bug Fan	
+004_01	Night-Owl	Insect	
+004_02	Defiant	Ant	
+004_03	Polymorphing	Creature	
+004_04	Scarce	Critter	
+005_0	It's Raining Treasure!		
+005_00	Easy-breezy	Slingshot Ace	
+005_01	Atmospheric	Floaty Thing	
+005_02	Restless	Hunter	
+005_03	Flying	Paradise	
+005_04	Elusive	Vagabond	
+006_0	Flower Power		
+006_00	Greenhouse	Flower	
+006_01	Thorny	Rose	
+006_02	Heavenly	Rejuvenator	
+006_03	Sweet-Smelling	Blossom	
+006_04	Gorgeous	Groom	Bride
+007_0	Fruit Roots		
+007_00	Twin's	Other Half	
+007_01	Total	Freshman	
+007_02	Unpearable	Pear	
+007_03	Plucky	Star	
+007_04	Crisp	Mr. Popular	Ms. Popular
+007_05	Tropically Grown	Coconut	
+008_0	Tomorrow's Trees Today		
+008_00	Outdoorsy	Defender	
+008_01	Organic	Dietitian	
+008_02	Hay-Feverish	Sneezer	
+009_0	Miles for Stalkholders		
+009_00	Weekend	Stalkholder	
+010_0	Cornering the Stalk Market		
+010_00	Status-Minded	Speculator	
+010_01	Avaricious	Moneybags	
+010_02	Upstart	Trader	
+010_03	Worldwide	Bellionaire	
+010_04	Shadowy	Fixer	
+011_0	Bell Ringer		
+011_00	Invested	Shopaholic	
+011_01	Thrifty	Family Member	
+011_02	Covetous	Personality	
+011_03	Wasteful	Celebrity	
+011_04	Name-Dropping	VIP	
+012_0	First-Time Buyer		
+012_00	Full-Fledged	Consumer	
+013_0	Seller of Unwanted Stuff		
+013_00	Down-And-Out	Eventuality	
+014_0	Furniture Freshener		
+014_00	Unique	Eccentric	
+014_01	Change-It-Up	Challenger	
+014_02	Detail-Oriented	Engineer	
+014_03	Mold-Breaking	Modder	
+014_04	Remodeling	Inspiration	
+015_0	Growing Collection		
+015_00	Casual	Materialist	
+015_01	Curious	Force	
+015_02	Greedy	Collector	
+015_03	Materialistic	Avatar	
+015_04	Legendary	Walking Dictionary	
+016_0	Shop to It		
+016_00	Internet	Surfer	
+016_01	Connected	Reviewer	
+016_02	Widely Accepted	Connector	
+016_03	Disconnected	Worrywart	
+016_04	Always-On	Bigwig	
+017_0	K.K. Mania		
+017_00	Fickle	Music-Lover	
+017_01	Covert	Supporter	
+017_02	Regular	Fan	
+017_03	The Definition of	Pop Star	
+017_04	Longtime	Follower	
+018_0	Island and Yourland		
+018_00	Traveling	Person	
+018_01	Occasional	Tourist	
+018_02	Global	Wanderer	
+019_0	Host the Most		
+019_00	Hospitable	Friend	
+019_01	Lonely	Chum	
+019_02	Well-Known	Partier	
+021_0	Active Island Resident		
+021_00	Self-Paced	Chill Soul	
+021_01	Active	Specialist	
+021_02	Sleepless	Adventurer	
+021_03	Nicknamed	Gamer	
+021_04	Ready-Made	MVP	
+023_0	Flower Tender		
+023_00	Refined	Caretaker	
+023_01	Detailed	Keeper	
+023_02	Careful	Gardener	
+023_03	Caretaking	Ringleader	
+023_04	Flower-Loving	Boss	
+024_0	Taking the Sting Out		
+024_00	Teary-Eyed	Crybaby	
+025_0	Cicada Memories		
+025_00	Shell-Less	Being	
+026_0	Flea Flicker		
+026_00	Tidy	Wild Child	
+026_01	Highly Aware	Neatnik	
+026_02	Fastidious	Character	
+027_0	Faint of Heart		
+027_00	Risen	Phoenix	
+031_0	Reaction Ruler		
+031_00	Overacting	Neophyte	
+031_01	Apprentice	Dancer	
+031_02	Dad-Joking	Semiprofessional	
+031_03	Solo	Comedian	
+031_04	Super-Popular	Mega Star	
+032_0	Trash Fishin'		
+032_00	Untossable	Trash	
+032_01	Eco-Friendly	Ecologist	
+032_02	Waterway	Cleaner	
+033_0	Moving Fees Paid!		
+033_00	Autonomous	Life	
+034_0	No More Loan Payments!		
+034_00	Responsible	Bill Payer	
+035_0	First Custom Design!		
+035_00	Aspiring	Artist	
+036_0	Custom Design Pro!		
+036_00	Pro	Designer	
+037_0	Greedy Weeder		
+037_00	Messy	Lawn Clippings	
+037_01	Omnivorous	Custodian	
+037_02	Herbivorous	Sorter	
+037_03	Vigorous	Sprout	
+037_04	Wild	Beast	
+039_0	Golden Milestone		
+039_00	Shining	Jewel	
+039_01	Top-Notch	Luminary	
+039_02	Ultimate	Miracle	
+039_03	Royal	Prince	Princess
+039_04	Glittering	Emperor	Empress
+039_05	Radiant	Supreme Being	
+040_0	Decorated Decorator		
+040_00	Happy	Overachiever	
+041_0	Fishing Tourney! 		
+041_00	Spring-Born	Free Spirit	
+041_01	Summer-Born	Chiller	
+041_02	Fall-Born	Free-Wheeler	
+041_03	Winter-Born	Overheater	
+042_0	Bug-Off! 		
+042_00	Adolescent	Youngster	
+042_01	Rebellious	Rebel	
+042_02	Solitary	Lone Wolf	
+042_03	Standoffish	Individual	
+043_0	Gulliver's Travails		
+043_00	Flightless	Fowl	
+043_01	Perennial	Lost One	
+043_02	Off-Season	Migratory Bird	
+044_0	Wispy Island Secrets		
+044_00	Cowardly	Ghost	
+044_01	Supernatural	Soul	
+044_02	Soulful	Soul Mate	
+045_0	Snowmaestro		
+045_00	Cold-Sensitive	Sprite	
+045_01	Snow	Angel	
+045_02	Cool	Imp	
+046_0	Happy Birthday!		
+046_00	Celebratory	Birthday Boy	Birthday Girl
+047_0	Birthday Celebration		
+047_00	Untamed	Party Animal	
+047_01	Growing	Youth	
+047_02	Grown	Adult	
+048_0	Countdown Celebration		
+048_00	Countdown	Merrymaker	
+049_0	Trashed Tools		
+049_00	Rascally	Clown	
+049_01	Overboard	Crusher	
+049_02	Rowdy	Punk	
+049_03	Rough-And-Tumble	Meanie	
+049_04	Chaotic	Ruiner	
+050_0	Popular Pen Pal		
+050_00	Art-School	Boy	Girl
+050_01	Science-y	Student	
+050_02	Liberal-Arts	Poet	
+050_03	Subculture	Denizen	
+050_04	Deadline	Writer	
+051_0	Pit-y Party		
+051_00	Wild-Child	Troublemaker	
+052_0	Overcoming Pitfalls		
+052_00	Trapped	Reckless One	
+053_0	[island name] Miles	
+053_00	Nook Inc.'s	Patron	
+054_0	True Friends		
+054_00	Soothing	Pal	
+054_01	Friendly	Buddy	
+054_02	Friendship	Seeker	
+055_0	Have a Nice DIY!		
+055_00	Trivia	Representative	
+055_01	Savvy	Intellectual	
+055_02	Understated	Authority	
+055_03	Knowledge-Thirsty	Sidekick	
+055_04	Clever	Father	Mother
+056_0	That's One Smart Phone		
+056_00	Digital-Age	Child	
+057_0	Rock-Splitting Champ		
+057_00	Sports-Minded	Muscle	
+058_0	Nook Miles for Miles!		
+058_00	So-Called	Ground Traveler	
+058_01	Novice	Rookie	
+058_02	Wide-Ranging	Hobbyist	
+058_03	Perfectionist	Go-Getter	
+058_04	Year-Round	Dynamo	
+059_0	Smile Isle		
+059_00	Kindly	Standard	
+059_01	Reliable	Ally	
+059_02	Generous	Supervisor	
+059_03	Exalted	Savior	
+059_04	Foolhardy	Hero	Heroine
+060_0	Paydirt!		
+060_00	Lucky	Type	
+061_0	Bona Fide Bone Finder!		
+061_00	Discovered	Fossil	
+062_0	Fossil Assessment		
+062_00	Anonymous	Something Or Other	
+062_01	Ancient	Truth	
+062_02	History-Loving	Researcher	
+062_03	Evolving	Scatterbrain	
+062_04	Historic	Discovery	
+063_0	Clam and Collected		
+063_00	Tidal	Season	
+063_01	Ready	Coast Dweller	
+063_02	Buried	Genius	
+063_03	Rare	Prodigy	
+063_04	Water's Edge	Mermaid	
+064_0	Exterior Decorator		
+064_00	Outdoor-Loving	Decorating Fiend	
+067_0	Rough-hewn		
+067_00	Specific	Producer	
+067_01	Aggressive	Problem Solver	
+067_02	Sharp	Guard	
+067_03	Pointy	Tack	
+067_04	Productive	Superhero	
+068_0	Island Togetherness		
+068_00	Unhindered	Wallflower	
+068_01	Unabashedly	Shy Kid	
+068_02	Respected	One	
+068_03	Ludicrously Popular	""It"" Guy	""It"" Girl
+068_04	Natural	Heart Stealer	
+069_0	Go Ahead. Be Shellfish!		
+069_00	Shell-Grabbing	Shell Fan	
+069_01	Seashore	Seashell Seller	
+069_02	Shifty	Shellector	
+069_03	Over-Shelled	Shell Master	
+069_04	Shellfish	Shellaborator	Shellarina
+070_0	Pick of the Bunch		
+070_00	Inexperienced	Observationist	
+070_01	Precocious	Bounty	
+070_02	Seasonal	Tree	
+070_03	Mature	Kind	
+070_04	Rotten	Scent	
+071_0	Netting Better!		
+071_00	Accurate	Deadeye	
+072_0	DIY Tools		
+072_00	Creative	Enthusiast	
+072_01	Crafty	Club Member	
+072_02	Hip	Virtuoso	
+072_03	Bona Fide	Technician	
+072_04	Relentless	Meister	
+073_0	DIY Furniture		
+073_00	Handmade	Resident	
+073_01	Emergent	Artisan	
+073_02	Picky	Crafter	
+073_03	Humbly Begun	Master	Matriarch
+073_04	Destructive-Creative	King	Queen
+075_0	Island Shutterbug		
+075_00	Photogenic	Photographer	
+076_0	NookPhone Life		
+076_00	Smartphone	Savant	
+077_0	Good Things in Store!		
+077_00	Overstuffed	Stylist	
+077_01	Partially Obscured	Talent	
+077_02	At-Capacity	Manager	
+077_03	Self-Possessed	Coordinator	
+077_04	Invulnerable	Life Hacker	
+078_0	Hoard Reward		
+078_00	Interior	Sort	
+078_01	Tentative	Remodeler	
+078_02	Comparative	Sundries Fan	
+078_03	Assumed	Appliance Fan	
+078_04	Abounding	Interior-Design Fan	
+079_0	Shady Shakedown		
+079_00	Carefree	Figure	
+079_01	Jovial	Brute	
+079_02	Spirited	Gifted One	
+079_03	Factual	Outlaw	
+079_04	Inspirational	Statement	
+080_0	Lost Treasure		
+080_00	Catchable	Klutz	
+081_0	Remarkable Remodeler		
+081_00	Home	Transformer	
+081_01	Dreamy	Dreamer	
+081_02	Quintessential	Space	
+082_0	Dream House		
+082_00	One-Room	Loner	
+082_01	Single-Occupant	Beginner	
+082_02	Homey	Sentiment	
+082_03	Second-Floor	Landlord	
+082_04	Basement	Backbone	
+083_0	Bulletin-Board Benefit		
+083_00	Rumormongering	Influencer	
+084_0	Making a Change		
+084_00	Trendy	Model	
+085_0	Wishes Come True		
+085_00	Late-Night	Meteorite	
+085_01	Wishful	Legend	
+085_02	Overnight	Superstar	
+086_0	[island name] Icons	
+086_00	Flapping	Flag Waver	
+086_01	Humming	Musician	
+087_0	Edit Credit		
+087_00	Future	Traveler	
+088_0	Island Designer		
+088_00	Trailblazing	Runner	
+088_01	Swept-Away	Pioneer	
+088_02	Cliffhanging	Creator	
+089_0	Fun with Fences		
+089_00	Efficient	Partitioner	
+999_00	Very First	Island Dweller	
+999_01	Deserted-Island	Relocator	
+999_02	Pocket	Papa	Mama
+999_03	Festive	Grandpa	Grandma
+999_04	Happy Home	Son	Daughter
+999_05	Plaza	Older Brother	Older Sister
+999_06	New Leaf	Younger Brother	Younger Sister
+999_07	City Folk	Camper	
+999_08	Wild World	Pet	
+999_09	Horizon-Bound	Island Resident	
+999_10	Animal	Crossing	
+999_11	Arrived	Animal

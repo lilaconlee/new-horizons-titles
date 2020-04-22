@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,600,700,800,900&display=swap');
+
+$beige: #D5D2BF;
+$blue: #C3CABA;
+$pink: #EBE1D5;
+$green: #E8EECC;
+$purple: #E5E1DE;
+
+.beige {
+  background: $beige;
+}
+
+.blue {
+  background: $blue;
+}
+
+.pink {
+  background: $pink;
+}
+
+.green {
+  background: $green;
+}
+
+.purple {
+  background: $purple;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  // background-image: url(bg.png);
+  // background-repeat: repeat;
+  background: $beige;
+  margin: 0;
+  height: 100vh;
+
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  font-size: 36pt;
+}
+
+.text {
+  display: block;
+  text-align: center;
+  width: 100vw;
+}
