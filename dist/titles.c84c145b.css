@@ -19,18 +19,32 @@
   align-items: center;
   justify-content: center; }
 
+html,
+body {
+  height: 100%; }
+
 body {
   background: #D5D2BF;
   margin: 0;
-  height: 100vh;
   font-family: 'Nunito', sans-serif;
-  font-weight: bold;
-  font-size: 36pt; }
+  font-weight: bold; }
 
-.text {
-  display: block;
-  text-align: center;
-  width: 100vw; }
+.container {
+  background: #EDE4C3;
+  height: 60vmax;
+  width: 80vmax;
+  display: flex;
+  justify-content: center; }
+
+.list {
+  color: #9C9374;
+  overflow-y: scroll;
+  list-style-type: none; }
+  .list#starts {
+    text-align: right;
+    padding-right: 0.5rem; }
+  .list#ends {
+    padding-left: 0.5rem; }
 
 
 /*# sourceMappingURL=/titles.c84c145b.css.map */
