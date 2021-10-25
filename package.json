@@ -12,10 +12,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "prettier": "^2.0.5",
-    "sass": "^1.26.3"
+    "prettier": "^2.4.1",
+    "sass": "^1.43.3"
   },
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
