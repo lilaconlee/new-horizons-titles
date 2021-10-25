@@ -24,6 +24,8 @@ let numNbsp = 5;
 while (numNbsp > 0) {
   starts.push("&nbsp");
   ends.push("&nbsp");
+  starts.unshift("&nbsp");
+  ends.unshift("&nbsp");
   numNbsp--;
 }
 

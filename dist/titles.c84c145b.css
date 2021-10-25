@@ -27,7 +27,8 @@ body {
   background: #D5D2BF;
   margin: 0;
   font-family: 'Nunito', sans-serif;
-  font-weight: bold; }
+  font-weight: bold;
+  font-size: 20pt; }
 
 .container {
   background: #EDE4C3;
@@ -42,7 +43,8 @@ body {
   list-style-type: none; }
   .list#starts {
     text-align: right;
-    padding-right: 0.5rem; }
+    padding-right: 0.5rem;
+    direction: ltr; }
   .list#ends {
     padding-left: 0.5rem; }
 
